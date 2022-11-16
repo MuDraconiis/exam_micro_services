@@ -1,4 +1,4 @@
-/*package com.example.mymovie.configuration;
+package com.example.mymovie.configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -38,4 +38,3 @@ public class Swagger2UiConfiguration extends WebMvcConfigurerAdapter  {
 
 
 }
-*/
